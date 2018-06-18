@@ -9,4 +9,8 @@ app.get('/', (req, res) => {
 	req.end();
 })
 
+app.get('/users', (req, res) => {
+
+})
+
 app.listen(5000, () => console.log("Listening on port 5000"));
