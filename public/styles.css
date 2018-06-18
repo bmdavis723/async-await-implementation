@@ -9,6 +9,10 @@ html {
 }
 
 h1 {
-	font-size: 2rem;
+	font-size: 6rem;
 }
 
+#person-button {
+	height: 10vh;
+	width: 100vw;
+}
